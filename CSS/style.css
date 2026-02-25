@@ -162,7 +162,6 @@ nav ul li a:hover {
 
 
 .list1:hover .more1 {
-    display: block;
     display: flex;
     position: fixed;
     flex-direction: column;
